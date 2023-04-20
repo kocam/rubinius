@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
