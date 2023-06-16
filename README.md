@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
