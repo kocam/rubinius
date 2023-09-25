@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
