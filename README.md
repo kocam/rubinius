@@ -1,1 +1,1 @@
-add logs
+Update Docs language dropdown height (#6927)
